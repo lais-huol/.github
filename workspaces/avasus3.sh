@@ -1,5 +1,5 @@
 PROJECT_ROOTDIR=~/projetos/LAIS/avasus3
-WORKSPACE_ROOTDIR=~/projetos/LAIS/avasus3
+WORKSPACE_ROOTDIR=~/projetos/LAIS/avasus3/avasus3_workspace
 
 # Baixe o projeto na pasta de exemplo (se for outra, basta que altere os scripts)
 mkdir -p $PROJECT_ROOTDIR
