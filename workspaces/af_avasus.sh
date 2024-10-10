@@ -2,7 +2,7 @@ PROJECT_ROOTDIR=~/projetos/LAIS/af_avasus
 
 # Baixe o projeto na pasta de exemplo (se for outra, basta que altere os scripts)
 mkdir -p $PROJECT_ROOTDIR
-git clone ssh://git@git.lais.huol.ufrn.br:2222/AVAS/avasus/dados/airflow_avasus.git $PROJECT_ROOTDIR/af_avasus
+git clone ssh://git@git.lais.huol.ufrn.br:2222/AVAS/avasus/dados/af_avasus.git $PROJECT_ROOTDIR/af_avasus
 cd $PROJECT_ROOTDIR/af_avasus
 
 
